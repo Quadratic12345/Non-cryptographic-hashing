@@ -1,0 +1,1 @@
+we use any writing we want then we use Sum32 which converts the word to uint32. crc32 is generally used to compare files if the Sum32 value of two files are same then they are generally the same files
